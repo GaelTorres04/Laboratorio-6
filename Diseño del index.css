@@ -1,0 +1,28 @@
+
+.navbar-brand{
+    border-radius: 15px;
+    padding: 10px;
+    border: 1px solid;
+    margin-left: 20px;
+    background-color: lightgrey;
+}
+
+a{
+    font-size: x-large;
+}
+
+.container-fluid{
+    margin-top: 20px;
+    background-color: gray;
+}
+
+.container-fluid .parrafos span{
+    margin: 10px;
+    font-size: 30px;
+}
+
+.container-fluid img{
+    width: 50%;
+    margin: 20px;
+}
+
