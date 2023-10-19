@@ -1,0 +1,10 @@
+.navbar-brand{
+    margin-left: 20px;
+}
+
+#pagina1{
+    background-color: lightgrey;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 10px;
+}
